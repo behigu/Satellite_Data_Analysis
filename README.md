@@ -1,4 +1,7 @@
-##Hello World, this is Behigu.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png" width="224px"/><br/>
+  Hello world, this is <strong> Behigu </strong>
+</h1>
 
 
 # AgriTech - USGS LIDAR Challenge
