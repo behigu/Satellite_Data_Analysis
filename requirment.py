@@ -1,1 +1,12 @@
-
+geopandas
+imageio
+pandas
+pathlib
+matplotlib
+mapclassify
+numpy
+laspy
+rasterio
+folium
+shapely
+geoplot
