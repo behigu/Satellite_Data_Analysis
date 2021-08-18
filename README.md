@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png" width="224px"/><br/>
+  <img src="https://github.com/behigu/Satellite_Data_Analysis/blob/main/pictures/user_cartoon.png" width="224px"/><br/>
   Hello world, this is <strong> Behigu </strong>
 </h1>
 
