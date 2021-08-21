@@ -30,4 +30,6 @@ This project tries to build a python package for AgriTech. IN AgriTech, the inte
         create_geopandasdf() : generate data frame from the files
         get_geopandas_df() : will provide the data frame
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=behigu&show_icons=true)
   
