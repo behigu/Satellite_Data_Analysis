@@ -47,7 +47,7 @@ class FetchAndLoad():
 
     def get_bounds_and_ploygon(self):
         '''
-        set bounderies and polygons after converting user CRS - coordinate system
+        set boundaries and polygons after converting user CRS - coordinate system
         to the coordinate system we use ( 3857 ).
         '''
         polygon_df = gpd.GeoDataFrame([self.polygon], columns=['geometry'])
