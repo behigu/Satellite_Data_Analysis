@@ -19,4 +19,15 @@ This project tries to build a python package for AgriTech. IN AgriTech, the inte
   - Standardized grid - A python code that takes elevation points output from the USGS LIDAR tool and interpolates them to a grid.
 
 ## Package Installation
- 
+
+   - params : 
+        polygon : polygon of area we need to crop
+        state : state to do the elevation
+
+   - instruction:
+        Make sure to run them sequentially.
+        run_pipe() : will generate the neccessary files
+        create_geopandasdf() : generate data frame from the files
+        get_geopandas_df() : will provide the data frame
+
+  
